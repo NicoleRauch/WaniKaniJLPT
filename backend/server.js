@@ -17,7 +17,7 @@ var app = express();                 // define our app using express
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({extended: true}));
 
-app.set('port', process.env.PORT || 5555);        // set our port
+app.set('port', process.env.PORT || 63292);        // set our port
 
 // MIDDLEWARE for accessing the server from other servers
 app.use(function(req, res, next) {
