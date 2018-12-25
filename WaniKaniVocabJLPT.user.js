@@ -109,12 +109,9 @@
         var readings = currentItem.kana;
         console.log("Querying", vocab, readings);
 
-        // Check if item is not vocab
-        if (currentItem.on || currentItem.kun) {
-            setClassAndText(allClasses.hide);
-        } else {
-            fetchJLPTData(vocab, readings);
-        }
+        // also query kanji from the backend because we need the hide information from the backend
+        // due to race conditions with the reorder script
+        fetchJLPTData(vocab || "novocab", readings || ["novocab"]);
     }
 
     function fetchJLPTData(vocab, kana) {
