@@ -137,8 +137,8 @@
 
     function setClassAndText(aObj) {
         var $wrapper = $('#jlpt-indicator');
-        for (var klass in allClasses) {
-            $wrapper.removeClass(klass);
+        for (var entry in allClasses) {
+            $wrapper.removeClass(allClasses[entry].klass);
         }
 
         $wrapper.text(aObj.text).addClass(aObj.klass);
