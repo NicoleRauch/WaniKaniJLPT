@@ -17,6 +17,8 @@
 (function () {
     'use strict';
 
+    var jlptApiUrl = "http://localhost:63292/api/";
+
     console.log('/// start of WK Vocab JLPT Indicator');
 
 
@@ -53,7 +55,6 @@
         '    opacity: 0.5;' +
         '}';
 
-    var jlptApiUrl = "http://localhost:5555/api/";
     var allClasses = {
         hide: {
             klass: 'hide',
