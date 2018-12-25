@@ -61,6 +61,10 @@ insertData(JLPTN3, n3tag);
 insertData(JLPTN2, n2tag);
 insertData(JLPTN1, n1tag);
 
+router.get('/', function(req, res, next) {
+    res.send("Willkommen zur JLPT Server API!")
+});
+
 router.get('/:kanji/:kana1/:kana2/:kana3', function(req, res, next) {
     let level = levelMap[req.params.kanji + " " + req.params.kana1];
     if(level === undefined) {
@@ -81,12 +85,22 @@ router.get('/:kanji/:kana1/:kana2', function(req, res, next) {
 });
 
 router.get('/:kanji/:kana', function(req, res, next) {
+    if(req.params.kanji === "novocab") {
+        res.send("hide"); // special treatment for non-vocab words
+    }
     const level = levelMap[req.params.kanji + " " + req.params.kana];
     res.send(level || "nojlpt");
 });
 
 // REGISTER OUR ROUTES -------------------------------
 app.use('/api', router);
+
+// =============================================================================
+var hello = express.Router();              // get an instance of the express Router
+hello.get('/', function(req, res, next) {
+   res.send("Willkommen zum JLPT Server!")
+});
+app.use('/', hello);
 
 // START THE SERVER
 // =============================================================================
