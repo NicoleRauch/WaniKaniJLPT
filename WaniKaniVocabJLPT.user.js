@@ -109,7 +109,11 @@
     });
 
     $.jStorage.listenKeyChange('l/overlayStartQuiz', function () {
-        setJLPTIndicator("hide"); // remove indicator during quiz start splash screen
+        setJLPTIndicator("hide"); // remove indicator during quiz start overlay screen
+    });
+
+    $.jStorage.listenKeyChange('l/overlayStartLesson', function () {
+        setJLPTIndicator("hide"); // remove indicator during lesson start overlay screen
     });
 
     function handleJLPT(currentItem) {
