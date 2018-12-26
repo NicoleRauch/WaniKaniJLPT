@@ -104,6 +104,14 @@
         handleJLPT($.jStorage.get('l/currentLesson'));
     });
 
+    $.jStorage.listenKeyChange('l/currentQuizItem', function () {
+        handleJLPT($.jStorage.get('l/currentQuizItem'));
+    });
+
+    $.jStorage.listenKeyChange('l/overlayStartQuiz', function () {
+        setJLPTIndicator("hide"); // remove indicator during quiz start splash screen
+    });
+
     function handleJLPT(currentItem) {
         var vocab = currentItem.voc;
         var readings = currentItem.kana;
