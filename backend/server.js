@@ -20,10 +20,10 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.set('port', process.env.PORT || 63292);        // set our port
 
 // MIDDLEWARE for accessing the server from other servers
-app.use(function(req, res, next) {
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Cache-Control', 'no-cache');
-  next();
+app.use(function (req, res, next) {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Cache-Control', 'no-cache');
+    next();
 });
 
 // ROUTES FOR OUR API
@@ -61,35 +61,38 @@ insertData(JLPTN3, n3tag);
 insertData(JLPTN2, n2tag);
 insertData(JLPTN1, n1tag);
 
-router.get('/', function(req, res, next) {
+router.get('/', function (req, res, next) {
     res.send("Willkommen zur JLPT Server API!")
 });
 
-router.get('/:kanji/:kana1/:kana2/:kana3', function(req, res, next) {
-    let level = levelMap[req.params.kanji + " " + req.params.kana1];
-    if(level === undefined) {
-        level = levelMap[req.params.kanji + " " + req.params.kana2];
-    }
-    if(level === undefined) {
-        level = levelMap[req.params.kanji + " " + req.params.kana3];
-    }
-    res.send(level || "nojlpt");
+// todo remove ~ at start of vocab
+
+function levelFor(kanji, kana) {
+    return levelMap[kanji + " " + kana];
+}
+
+router.get('/:kanji/:kana1/:kana2/:kana3', function (req, res, next) {
+    let level = levelFor(req.params.kanji, req.params.kana1)
+        || levelFor(req.params.kanji, req.params.kana2)
+        || levelFor(req.params.kanji, req.params.kana3)
+        || "nojlpt";
+    res.send(level);
 });
 
-router.get('/:kanji/:kana1/:kana2', function(req, res, next) {
-    let level = levelMap[req.params.kanji + " " + req.params.kana1];
-    if(level === undefined) {
-        level = levelMap[req.params.kanji + " " + req.params.kana2];
-    }
-    res.send(level || "nojlpt");
+router.get('/:kanji/:kana1/:kana2', function (req, res, next) {
+    let level = levelFor(req.params.kanji, req.params.kana1)
+        || levelFor(req.params.kanji, req.params.kana2)
+        || "nojlpt";
+    res.send(level);
 });
 
-router.get('/:kanji/:kana', function(req, res, next) {
-    if(req.params.kanji === "novocab") {
+router.get('/:kanji/:kana', function (req, res, next) {
+    if (req.params.kanji === "novocab") {
         res.send("hide"); // special treatment for non-vocab words
     }
-    const level = levelMap[req.params.kanji + " " + req.params.kana];
-    res.send(level || "nojlpt");
+    const level = levelFor(req.params.kanji, req.params.kana)
+        || "nojlpt";
+    res.send(level);
 });
 
 // REGISTER OUR ROUTES -------------------------------
@@ -97,13 +100,13 @@ app.use('/api', router);
 
 // =============================================================================
 var hello = express.Router();              // get an instance of the express Router
-hello.get('/', function(req, res, next) {
-   res.send("Willkommen zum JLPT Server!")
+hello.get('/', function (req, res, next) {
+    res.send("Willkommen zum JLPT Server!")
 });
 app.use('/', hello);
 
 // START THE SERVER
 // =============================================================================
 app.listen(app.get('port'), function () {
-  console.log('Connect to the server via http://localhost:' + app.get('port'));
+    console.log('Connect to the server via http://localhost:' + app.get('port'));
 });
