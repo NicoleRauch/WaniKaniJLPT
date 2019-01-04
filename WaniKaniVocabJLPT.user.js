@@ -41,9 +41,9 @@
         '    color: transparent;' +
         '}' +
         '.jlpt-indicator-item.fetching {' +
-        '    background-color: white;' +
-        '    opacity: 0.4;' +
-        '    color: #a100f1;' +
+        '    background-color: transparent;' +
+        '    color: white;' +
+        '    opacity: 0.5;' +
         '}' +
         '.jlpt-indicator-item.jlpt {' +
         '    background-color: white;' +
