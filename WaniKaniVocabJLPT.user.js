@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Wanikani Vocab JLPT Indicator
 // @namespace   nicolerauch
-// @author      nicolerauch
-// @description Show which JLPT level the vocabulary word is in (if at all) according to
+// @author      nicolerauch & myria
+// @description Show which JLPT level the kanji or vocabulary word is in (if at all) according to
 //              Jonathan Waller‘s JLPT Resources page http://www.tanos.co.uk/jlpt/.
 //              The code is based on dtwigs "WaniKani Common Vocab Indicator" script.
 // @run-at      document-end
