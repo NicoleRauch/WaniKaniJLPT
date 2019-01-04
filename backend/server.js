@@ -40,26 +40,47 @@ const n1tag = "jlptn1";
 
 const levelMap = {};
 
-var JLPTN5 = path.join(__dirname, 'n5-vocab-kanji-hiragana.txt');
-var JLPTN4 = path.join(__dirname, 'n4-vocab-kanji-hiragana.txt');
-var JLPTN3 = path.join(__dirname, 'n3-vocab-kanji-hiragana.txt');
-var JLPTN2 = path.join(__dirname, 'n2-vocab-kanji-hiragana.txt');
-var JLPTN1 = path.join(__dirname, 'n1-vocab-kanji-hiragana.txt');
+var JLPTN5Vocab = path.join(__dirname, 'n5-vocab-kanji-hiragana.txt');
+var JLPTN4Vocab = path.join(__dirname, 'n4-vocab-kanji-hiragana.txt');
+var JLPTN3Vocab = path.join(__dirname, 'n3-vocab-kanji-hiragana.txt');
+var JLPTN2Vocab = path.join(__dirname, 'n2-vocab-kanji-hiragana.txt');
+var JLPTN1Vocab = path.join(__dirname, 'n1-vocab-kanji-hiragana.txt');
 
-function insertData(file, levelTag) {
+var JLPTN5Kanji = path.join(__dirname, 'n5-kanji.txt');
+var JLPTN4Kanji = path.join(__dirname, 'n4-kanji.txt');
+var JLPTN3Kanji = path.join(__dirname, 'n3-kanji.txt');
+var JLPTN2Kanji = path.join(__dirname, 'n2-kanji.txt');
+var JLPTN1Kanji = path.join(__dirname, 'n1-kanji.txt');
+
+function insertVocabData(file, levelTag) {
     var fileContents = fs.readFileSync(file, {encoding: "utf8"});
     fileContents.split("\n").forEach(row => {
         const word = row.split("\t");
         levelMap[word[0] + " " + word[1]] = levelTag;
-        console.log(word[0] + " " + word[1] + " " + n5tag);
+        console.log(word[0] + " " + word[1] + " " + levelTag);
     });
 }
 
-insertData(JLPTN5, n5tag);
-insertData(JLPTN4, n4tag);
-insertData(JLPTN3, n3tag);
-insertData(JLPTN2, n2tag);
-insertData(JLPTN1, n1tag);
+function insertKanjiData(file, levelTag) {
+    var fileContents = fs.readFileSync(file, {encoding: "utf8"});
+    fileContents.split("\n").forEach(row => {
+        const word = row.split("\t");
+        levelMap[word[0]] = levelTag;
+        console.log(word[0] + " " + levelTag);
+    });
+}
+
+insertVocabData(JLPTN5Vocab, n5tag);
+insertVocabData(JLPTN4Vocab, n4tag);
+insertVocabData(JLPTN3Vocab, n3tag);
+insertVocabData(JLPTN2Vocab, n2tag);
+insertVocabData(JLPTN1Vocab, n1tag);
+
+insertKanjiData(JLPTN5Kanji, n5tag);
+insertKanjiData(JLPTN4Kanji, n4tag);
+insertKanjiData(JLPTN3Kanji, n3tag);
+insertKanjiData(JLPTN2Kanji, n2tag);
+insertKanjiData(JLPTN1Kanji, n1tag);
 
 router.get('/', function (req, res, next) {
     res.send("Willkommen zur JLPT Server API!")
@@ -68,10 +89,10 @@ router.get('/', function (req, res, next) {
 // todo remove ~ at start of vocab
 
 function levelFor(kanji, kana) {
-    return levelMap[kanji + " " + kana];
+    return kana ? levelMap[kanji + " " + kana] : levelMap[kanji];
 }
 
-router.get('/:kanji/:kana1/:kana2/:kana3', function (req, res, next) {
+router.get('/:kanji/:kana1/:kana2/:kana3', function (req, res) {
     let level = levelFor(req.params.kanji, req.params.kana1)
         || levelFor(req.params.kanji, req.params.kana2)
         || levelFor(req.params.kanji, req.params.kana3)
@@ -79,18 +100,25 @@ router.get('/:kanji/:kana1/:kana2/:kana3', function (req, res, next) {
     res.send(level);
 });
 
-router.get('/:kanji/:kana1/:kana2', function (req, res, next) {
+router.get('/:kanji/:kana1/:kana2', function (req, res) {
     let level = levelFor(req.params.kanji, req.params.kana1)
         || levelFor(req.params.kanji, req.params.kana2)
         || "nojlpt";
     res.send(level);
 });
 
-router.get('/:kanji/:kana', function (req, res, next) {
-    if (req.params.kanji === "novocab") {
-        res.send("hide"); // special treatment for non-vocab words
-    }
+router.get('/:kanji/:kana', function (req, res) {
     const level = levelFor(req.params.kanji, req.params.kana)
+        || "nojlpt";
+    console.log(req.params.kanji, req.params.kana, level)
+    res.send(level);
+});
+
+router.get('/:kanji', function (req, res) {
+    if (req.params.kanji === "noword") {
+        res.send("hide"); // special treatment for radicals
+    }
+    const level = levelFor(req.params.kanji)
         || "nojlpt";
     res.send(level);
 });
