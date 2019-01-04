@@ -117,20 +117,24 @@
     });
 
     function handleJLPT(currentItem) {
+        var kanji = currentItem.kan;
         var vocab = currentItem.voc;
         var readings = currentItem.kana;
         console.log("Querying", vocab, readings);
 
         // also query kanji from the backend because we need the hide information from the backend
         // due to race conditions with the reorder script
-        fetchJLPTData(vocab || "novocab", readings || ["novocab"]);
+        fetchJLPTData(kanji, vocab, readings || []);
     }
 
-    function fetchJLPTData(vocab, kana) {
+    function fetchJLPTData(kanji, vocab, kana) {
         setClassAndText(allClasses.fetching);
         GM_xmlhttpRequest({
             method: 'get',
-            url: jlptApiUrl + encodeURIComponent(vocab) + "/" + kana.map(encodeURIComponent).join("/"),
+            url: jlptApiUrl + (
+                kanji ? encodeURIComponent(kanji) :
+                vocab ? (encodeURIComponent(vocab) + "/" + kana.map(encodeURIComponent).join("/")) :
+                "noword" ),
             responseType: 'text',
             onload: function (response) {
                 setJLPTIndicator(response.response);
