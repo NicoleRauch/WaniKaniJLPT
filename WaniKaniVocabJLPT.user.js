@@ -17,7 +17,7 @@
 (function () {
     'use strict';
 
-    var jlptApiUrl = "https://wanikanijlpt.herokuapp.com/";
+    var jlptApiUrl = "https://wanikanijlpt.herokuapp.com/api/";
 
     console.log('/// start of WK Kanji & Vocab JLPT Indicator');
 
