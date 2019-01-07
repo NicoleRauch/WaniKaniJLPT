@@ -19,7 +19,7 @@
 
     var jlptApiUrl = "https://wanikanijlpt.herokuapp.com/";
 
-    console.log('/// start of WK Vocab JLPT Indicator');
+    console.log('/// start of WK Kanji & Vocab JLPT Indicator');
 
 
     var css =
@@ -120,7 +120,6 @@
         var kanji = currentItem.kan;
         var vocab = currentItem.voc;
         var readings = currentItem.kana;
-        console.log("Querying", vocab, readings);
 
         // also query kanji from the backend because we need the hide information from the backend
         // due to race conditions with the reorder script
