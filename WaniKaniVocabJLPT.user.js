@@ -17,7 +17,7 @@
 (function () {
     'use strict';
 
-    var jlptApiUrl = "http://localhost:63292/api/";
+    var jlptApiUrl = "https://wanikanijlpt.herokuapp.com/";
 
     console.log('/// start of WK Vocab JLPT Indicator');
 
