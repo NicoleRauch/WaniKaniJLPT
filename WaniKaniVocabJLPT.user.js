@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Wanikani Vocab JLPT Indicator
+// @name        Wanikani JLPT Indicator
 // @namespace   nicolerauch
 // @author      nicolerauch & myria
 // @description Show which JLPT level the kanji or vocabulary word is in (if at all) according to
@@ -19,7 +19,7 @@
 
     var jlptApiUrl = "https://wanikanijlpt.herokuapp.com/api/";
 
-    console.log('/// start of WK Kanji & Vocab JLPT Indicator');
+    console.log('/// Start of WK Kanji & Vocab JLPT Indicator');
 
 
     var css =
