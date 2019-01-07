@@ -4,7 +4,7 @@
   "private": true,
   "main": "server.js",
   "engines": {
-    "node": "4.x.x"
+    "node": "8.x.x"
   },
   "scripts": {
     "start": "node server.js"
