@@ -5,6 +5,7 @@
 // @description Show which JLPT level the kanji or vocabulary word is in (if at all) according to
 //              Jonathan Waller‘s JLPT Resources page http://www.tanos.co.uk/jlpt/.
 //              The code is based on dtwigs "WaniKani Common Vocab Indicator" script.
+//              This code is at https://github.com/NicoleRauch/WaniKaniJLPT
 // @run-at      document-end
 // @include     *://www.wanikani.com/review/session*
 // @include     *://www.wanikani.com/lesson/session*
