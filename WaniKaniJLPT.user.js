@@ -132,8 +132,8 @@
             method: 'get',
             url: jlptApiUrl + (
                 kanji ? encodeURIComponent(kanji) :
-                vocab ? (encodeURIComponent(vocab) + "/" + kana.map(encodeURIComponent).join("/")) :
-                "noword" ),
+                    vocab ? (encodeURIComponent(vocab) + "/" + kana.map(encodeURIComponent).join("/")) :
+                        "noword"),
             responseType: 'text',
             onload: function (response) {
                 setJLPTIndicator(response.response);
