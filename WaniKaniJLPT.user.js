@@ -11,7 +11,7 @@
 // @version     0.0.1
 // @run-at      document-end
 // @grant       GM_xmlhttpRequest
-// @connect     *
+// @connect     wanikanijlpt.herokuapp.com
 // ==/UserScript==
 
 (function () {
