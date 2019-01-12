@@ -58,11 +58,11 @@
     var allClasses = {
         hide: {
             klass: 'hide',
-            text: '',
+            text: ''
         },
         fetching: {
             klass: 'fetching',
-            text: '...',
+            text: '...'
         },
         jlptn5: {
             klass: 'jlpt',
@@ -86,7 +86,7 @@
         },
         nojlpt: {
             klass: 'nojlpt',
-            text: 'no JLPT word',
+            text: 'no JLPT word'
         }
     };
 
