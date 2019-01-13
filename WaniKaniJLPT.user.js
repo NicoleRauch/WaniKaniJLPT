@@ -9,7 +9,7 @@
 // @run-at      document-end
 // @include     *://www.wanikani.com/review/session*
 // @include     *://www.wanikani.com/lesson/session*
-// @version     0.1.0
+// @version     0.2.0
 // @run-at      document-end
 // @grant       GM_xmlhttpRequest
 // @connect     wanikanijlpt.herokuapp.com
