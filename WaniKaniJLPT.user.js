@@ -130,7 +130,8 @@
             method: 'get',
             url: jlptApiUrl + (
                 kanji ? encodeURIComponent(kanji) :
-                    vocab ? (encodeURIComponent(vocab) + "/" + kana.map(encodeURIComponent).join("/")) :
+                    vocab ? (encodeURIComponent(vocab.replace(/する$|^〜/,'')) + "/" +
+                        kana.map(function(k){return k.replace(/する$/,'')}).map(encodeURIComponent).join("/")) :
                         "noword"),
             responseType: 'text',
             onload: function (response) {
