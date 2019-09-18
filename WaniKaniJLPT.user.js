@@ -115,6 +115,8 @@
     });
 
     function handleJLPT(currentItem) {
+        if(!currentItem) return;
+
         var kanji = currentItem.kan;
         var vocab = currentItem.voc;
         var readings = currentItem.kana;
