@@ -1,0 +1,79 @@
+日	day/sun/Japan	
+一	one	
+国	country	
+人	person	
+年	year	
+大	large/big	
+十	ten	
+二	two	
+本	book/present/main/true/real/counter for long things	
+中	in/inside/middle/mean/center	
+長	long/leader	
+出	exit/leave	
+三	three	
+時	time/hour	
+行	going/journey	
+見	see/hopes/chances/idea/opinion/look at/visible	
+月	month/moon	
+後	behind/back/later	
+前	in front/before	
+生	life/genuine/birth	
+五	five	
+間	interval/space	
+上	above/up	
+東	east	
+四	four	
+今	now	
+金	gold	
+九	nine	
+入	enter/insert	
+学	study/learning/science	
+高	tall/high/expensive	
+円	circle/yen/round	
+子	child/sign of the rat/11PM-1AM/first sign of Chinese zodiac	
+外	outside	
+八	eight	
+六	six	
+下	below/down/descend/give/low/inferior	
+来	come/due/next/cause/become	
+気	spirit/mind	
+小	little/small	
+七	seven	
+山	mountain	
+話	tale/talk	
+女	woman/female	
+北	north	
+午	noon/sign of the horse/11AM-1PM/seventh sign of Chinese zodiac	
+百	hundred	
+書	write	
+先	before/ahead/previous/future/precedence	
+名	name/noted/distinguished/reputation	
+川	stream/river	
+千	thousand	
+水	water	
+半	half/middle/odd number/semi-/part-	
+男	male	
+西	west/Spain	
+電	electricity	
+校	exam/school/printing/proof/correction	
+語	word/speech/language	
+土	soil/earth/ground/Turkey	
+木	tree/wood	
+聞	hear/ask/listen	
+食	eat/food	
+車	car	
+何	what	
+南	south	
+万	ten thousand	
+毎	every	
+白	white	
+天	heavens/sky/imperial	
+母	mama/mother	
+火	fire	
+右	right	
+読	read	
+友	friend	
+左	left	
+休	rest/day off/retire/sleep	
+父	father	
+雨	rain	

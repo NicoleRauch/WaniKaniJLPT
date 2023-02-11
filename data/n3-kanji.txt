@@ -1,0 +1,367 @@
+政	politics/government	
+議	deliberation/consultation/debate/consideration	
+民	people/nation/subjects	
+連	take along/lead/join/connect/party/gang/clique	
+対	vis-a-vis/opposite/even/equal/versus/anti-/compare	
+部	section/bureau/dept/class/copy/part/portion/counter for copies of a newspaper or magazine	
+合	fit/suit/join/0.1	
+市	market/city/town	
+内	inside/within/between/among/house/home	
+相	inter-/mutual/together/each other/minister of state/councillor/aspect/phase/physiognomy	
+定	determine/fix/establish/decide	
+回	-times/round/game/revolve/counter for occurrences	
+選	elect/select/choose/prefer	
+米	rice/USA/metre	
+実	reality/truth	
+関	connection/barrier/gateway/involve/concerning	
+決	decide/fix/agree upon/appoint	
+全	whole/entire/all/complete/fulfill	
+表	surface/table/chart/diagram	
+戦	war/battle/match	
+経	sutra/longitude/pass thru/expire/warp	
+最	utmost/most/extreme	
+現	present/existing/actual	
+調	tune/tone/meter/key (music)/writing style/prepare/exorcise/investigate	
+化	change/take the form of/influence/enchant/delude/-ization	
+当	hit/right/appropriate/himself	
+約	promise/approximately/shrink	
+首	neck	
+法	method/law/rule/principle/model/system	
+性	sex/gender/nature	
+要	need/main point/essence/pivot/key to	
+制	system/law/rule	
+治	reign/be at peace/calm down/subdue/quell/govt/cure/heal/rule/conserve	
+務	task/duties	
+成	turn into/become/get/grow/elapse/reach	
+期	period/time/date/term	
+取	take/fetch/take up	
+都	metropolis/capital	
+和	harmony/Japanese style/peace/soften/Japan	
+機	mechanism/opportunity/occasion/machine/airplane	
+平	even/flat/peace	
+加	add/addition/increase/join/include/Canada	
+受	accept/undergo/answer (phone)/take/get/catch/receive	
+続	continue/series/sequel	
+進	advance/proceed/progress/promote	
+数	number/strength/fate/law/figures	
+記	scribe/account/narrative	
+初	first time/beginning	
+指	finger/point to/indicate/put into/play (chess)/measure (ruler)	
+権	authority/power/rights	
+支	branch/support/sustain	
+産	products/bear/give birth/yield/childbirth/native/property	
+点	spot/point/mark/speck/decimal point	
+報	report/news/reward/retribution	
+済	finish/come to an end/excusable/need not	
+活	lively/resuscitation/being helped/living	
+原	meadow/original/primitive/field/plain/prairie/tundra/wilderness	
+共	together/both/neither/all/and/alike/with	
+得	gain/get/find/earn/acquire/can/may/able to/profit/advantage/benefit	
+解	unravel/notes/key/explanation/understanding/untie/undo/solve/answer/cancel/absolve/explain/minute	
+交	mingle/mixing/association/coming & going	
+資	assets/resources/capital/funds/data/be conducive to/contribute to	
+予	beforehand/previous/myself/I	
+向	yonder/facing/beyond/confront/defy/tend toward/approach	
+際	occasion/side/edge/verge/dangerous/adventurous/indecent/time/when	
+勝	victory/win/prevail/excel	
+面	mask/face/features/surface	
+告	revelation/tell/inform/announce	
+反	anti-	
+判	judgement/signature/stamp/seal	
+認	acknowledge/witness/discern/recognize/appreciate/believe	
+参	nonplussed/three/going/coming/visiting/visit/be defeated/die/be madly in love	
+利	profit/advantage/benefit	
+組	association/braid/plait/construct/assemble/unite/cooperate/grapple	
+信	faith/truth/fidelity/trust	
+在	exist/outskirts/suburbs/located in	
+件	affair/case/matter/item	
+側	side/lean/oppose/regret	
+任	responsibility/duty/term/entrust to/appoint	
+引	pull/tug/jerk/admit/install/quote/refer to	
+求	request/want/wish for/require/demand	
+所	place	
+次	next/order/sequence	
+昨	yesterday/previous	
+論	argument/discourse	
+官	bureaucrat/the government	
+増	increase/add/augment/gain/promote	
+係	person in charge/connection/duty/concern oneself	
+感	emotion/feeling/sensation	
+情	feelings/emotion/passion/sympathy/circumstances/facts	
+投	throw/discard/abandon/launch into/join/invest in/hurl/give up/sell at a loss	
+示	show/indicate/point out/express/display	
+変	unusual/change/strange	
+打	strike/hit/knock/pound/dozen	
+直	straightaway/honesty/frankness/fix/repair	
+両	both/old Japanese coin/counter for vehicles/two	
+式	style/ceremony/rite/function/method/system/form/expression	
+確	assurance/firm/tight/hard/solid/confirm/clear/evident	
+果	fruit/reward/carry out/achieve/complete/end/finish/succeed	
+容	contain/form/looks	
+必	invariably/certain/inevitable	
+演	performance/act/play/render/stage	
+歳	year-end/age/occasion/opportunity	
+争	contend/dispute/argue	
+談	discuss/talk	
+能	ability/talent/skill/capacity	
+位	rank/grade/throne/crown/about/some	
+置	placement/put/set/deposit/leave behind/keep/employ/pawn	
+流	current/a sink/flow/forfeit	
+格	status/rank/capacity/character/case (law/ grammar)	
+疑	doubt/distrust/be suspicious/question	
+過	overdo/exceed/go beyond/error	
+局	bureau/board/office/affair/conclusion/court lady/lady-in-waiting/her apartment	
+放	set free/release/fire/shoot/emit/banish/liberate	
+常	usual/ordinary/normal/regular	
+状	status quo/conditions/circumstances/form/appearance	
+球	ball/sphere	
+職	post/employment/work	
+与	bestow/participate in/give/award/impart/provide/cause/gift/godsend	
+供	submit/offer/present/serve (meal)/accompany	
+役	duty/war/campaign/drafted labor/office/service/role	
+構	posture/build/pretend	
+割	proportion/comparatively/divide/cut/separate/split	
+費	expense/cost/spend/consume/waste	
+付	adhere/attach/refer to/append	
+由	wherefore/a reason	
+説	rumor/opinion/theory	
+難	difficult/impossible/trouble/accident/defect	
+優	tenderness/excel/surpass/actor/superiority/gentleness	
+夫	husband/man	
+収	income/obtain/reap/pay/supply/store	
+断	severance/decline/refuse/apologize/warn/dismiss/prohibit/decision/judgement/cutting	
+石	stone	
+違	difference/differ	
+消	extinguish/blow out/turn off/neutralize/cancel	
+神	gods/mind/soul	
+番	turn/number in a series	
+規	standard/measure	
+術	art/technique/skill/means/trick/resources/magic	
+備	equip/provision/preparation	
+宅	home/house/residence/our house/my husband	
+害	harm/injury	
+配	distribute/spouse/exile/rationing	
+警	admonish/commandment	
+育	bring up/grow up/raise/rear	
+席	seat/mat/occasion/place	
+訪	call on/visit/look up/offer sympathy	
+乗	ride/power/multiplication/record/counter for vehicles/board/mount/join	
+残	remainder/leftover/balance	
+想	concept/think/idea/thought	
+声	voice	
+念	wish/sense/idea/thought/feeling/desire/attention	
+助	help/rescue/assist	
+労	labor/thank for/reward for/toil/trouble	
+例	example/custom/usage/precedent	
+然	sort of thing/so/if so/in that case/well	
+限	limit/restrict/to best of ability	
+追	chase/drive away/follow/pursue/meanwhile	
+商	make a deal/selling/dealing in/merchant	
+葉	leaf/plane/lobe/needle/blade/spear/counter for flat things/fragment/piece	
+伝	transmit/go along/walk along/follow/report/communicate/legend/tradition	
+働	work/(kokuji)	
+形	shape/form/style	
+景	scenery/view	
+落	fall/drop/come down	
+好	fond/pleasing/like something	
+退	retreat/withdraw/retire/resign/repel/expel/reject	
+頭	head/counter for large animals	
+負	defeat/negative/-/minus/bear/owe/assume a responsibility	
+渡	transit/ford/ferry/cross/import/deliver/diameter/migrate	
+失	lose/error/fault/disadvantage/loss	
+差	distinction/difference/variation/discrepancy/margin/balance	
+末	end/close/tip/powder/posterity	
+守	guard/protect/defend/obey	
+若	young/if/perhaps/possibly/low number/immature	
+種	species/kind/class/variety/seed	
+美	beauty/beautiful	
+命	fate/command/decree/destiny/life/appoint	
+福	blessing/fortune/luck/wealth	
+望	ambition/full moon/hope/desire/aspire to/expect	
+非	un-/mistake/negative/injustice/non-	
+観	outlook/look/appearance/condition/view	
+察	guess/presume/surmise/judge/understand	
+段	grade/steps/stairs	
+横	sideways/side/horizontal/width/woof	
+深	deep/heighten/intensify/strengthen	
+申	have the honor to/sign of the monkey/3-5PM/ninth sign of Chinese zodiac	
+様	Esq./way/manner/situation/polite suffix	
+財	property/money/wealth/assets	
+港	harbor	
+識	discriminating/know/write	
+呼	call/call out to/invite	
+達	accomplished/reach/arrive/attain	
+良	good/pleasing/skilled	
+候	climate/season/weather	
+程	extent/degree/law/formula/distance/limits/amount	
+満	full/enough/pride/satisfy	
+敗	failure/defeat/reversal	
+値	price/cost/value	
+突	stab/protruding/thrusting/thrust/pierce/prick	
+光	ray/light	
+路	path/route/road/distance	
+科	department/course/section	
+積	volume/product (x*y)/acreage/contents/pile up/stack/load/amass	
+他	other/another/the others	
+処	dispose/manage/deal with/sentence/condemn/act/behave/place	
+太	plump/thick/big around	
+客	guest/visitor/customer/client	
+否	negate/no/noes/refuse/decline/deny	
+師	expert/teacher/master/army/war	
+登	ascend/climb up	
+易	easy/ready to/simple/fortune-telling/divination	
+速	quick/fast	
+存	suppose/be aware of/believe/feel	
+飛	fly/skip (pages)/scatter	
+殺	kill/murder/butcher/slice off/split/diminish/reduce/spoil	
+号	nickname/number/item/title/pseudonym/name/call	
+単	simple/one/single/merely	
+座	squat/seat/cushion/gathering/sit	
+破	rend/rip/tear/break/destroy/defeat/frustrate	
+除	exclude/division (x/3)/remove/abolish/cancel/except	
+完	perfect/completion/end	
+降	descend/precipitate/fall/surrender	
+責	blame/condemn/censure	
+捕	catch/capture	
+危	dangerous/fear/uneasy	
+給	salary/wage/gift/allow/grant/bestow on	
+苦	suffering/trial/worry/hardship/feel bitter/scowl	
+迎	welcome/meet/greet	
+園	park/garden/yard/farm	
+具	tool/utensil/means/possess/ingredients/counter for armor/ suits/ sets of furniture	
+辞	resign/word/term/expression	
+因	cause/factor/be associated with/depend on/be limited to	
+馬	horse	
+愛	love/affection/favourite	
+富	wealth/enrich/abundant	
+彼	he/that/the	
+未	un-/not yet/hitherto/still/even now/sign of the ram/1-3PM/eighth sign of Chinese zodiac	
+舞	dance/flit/circle/wheel	
+亡	deceased/the late/dying/perish	
+冷	cool/cold (beer/ person)/chill	
+適	suitable/occasional/rare/qualified/capable	
+婦	lady/woman/wife/bride	
+寄	draw near/stop in/bring near/gather/collect/send/forward	
+込	crowded/mixture/in bulk/included/(kokuji)	
+顔	face/expression	
+類	sort/kind/variety/class/genus	
+余	too much/myself/surplus/other/remainder	
+王	king/rule/magnate	
+返	return/answer/fade/repay	
+妻	wife/spouse	
+背	stature/height/back/behind/disobey/defy/go back on/rebel	
+熱	heat/temperature/fever/mania/passion	
+宿	inn/lodging/relay station/dwell/lodge/be pregnant/home/dwelling	
+薬	medicine/chemical/enamel/gunpowder/benefit	
+険	precipitous/inaccessible place/impregnable position/steep place/sharp eyes	
+頼	trust/request	
+覚	memorize/learn/remember/awake/sober up	
+船	ship/boat	
+途	route/way/road	
+許	permit/approve	
+抜	slip out/extract/pull out/pilfer/quote/remove/omit	
+便	convenience	
+留	detain/fasten/halt/stop	
+罪	guilt/sin/crime/fault/blame/offense	
+努	toil/diligent/as much as possible	
+精	refined/ghost/fairy/energy/vitality/semen/excellence/purity/skill	
+散	scatter/disperse/spend/squander	
+静	quiet	
+婚	marriage	
+喜	rejoice/take pleasure in	
+浮	floating/float/rise to surface	
+絶	discontinue/beyond/sever/cut off/abstain/interrupt/suppress	
+幸	happiness/blessing/fortune	
+押	push/stop/check/subdue/attach/seize/weight/shove/press/seal/do in spite of	
+倒	overthrow/fall/collapse/drop/break down	
+等	etc./and so forth/class (first)/quality/equal/similar	
+老	old man/old age/grow old	
+曲	bend/music/melody/composition/pleasure/injustice/fault/curve/crooked/perverse/lean	
+払	pay/clear out/prune/banish/dispose of	
+庭	courtyard/garden/yard	
+徒	junior/emptiness/vanity/futility/uselessness/ephemeral thing/gang/set/party/people	
+勤	diligence/become employed/serve	
+遅	slow/late/back/later	
+居	reside/to be/exist/live with	
+雑	miscellaneous	
+招	beckon/invite/summon/engage	
+困	quandary/become distressed/annoyed	
+欠	lack/gap/fail	
+更	grow late/night watch/sit up late/of course	
+刻	engrave/cut fine/chop/hash/mince/time/carving	
+賛	approve/praise/title or inscription on picture/assist/agree with	
+抱	embrace/hug/hold in arms	
+犯	crime/sin/offense	
+恐	fear/dread/awe	
+息	breath/respiration/son/interest (on money)	
+遠	distant/far	
+戻	re-/return/revert/resume/restore/go backwards	
+願	petition/request/vow/wish/hope	
+絵	picture/drawing/painting/sketch	
+越	surpass/cross over/move to/exceed/Vietnam	
+欲	longing/covetousness/greed/passion/desire/craving	
+痛	pain/hurt/damage/bruise	
+笑	laugh	
+互	mutually/reciprocally/together	
+束	bundle/sheaf/ream/tie in bundles/govern/manage/control	
+似	becoming/resemble/counterfeit/imitate/suitable	
+列	file/row/rank/tier/column	
+探	grope/search/look for	
+逃	escape/flee/shirk/evade/set free	
+遊	play	
+迷	astray/be perplexed/in doubt/lost/err/illusion	
+夢	dream/vision/illusion	
+君	old boy/name-suffix	
+閉	closed/shut	
+緒	thong/beginning/inception/end/cord/strap	
+折	fold/break/fracture/bend/yield/submit	
+草	grass/weeds/herbs/pasture/write/draft	
+暮	livelihood/make a living/spend time	
+酒	sake/alcohol	
+悲	jail cell/grieve/sad/deplore/regret	
+晴	clear up	
+掛	hang/suspend/depend/arrive at/tax/pour	
+到	arrival/proceed/reach/attain/result in	
+寝	lie down/sleep/rest/bed/remain unsold	
+暗	darkness/disappear/shade/informal/grow dark/be blinded	
+盗	steal/rob/pilfer	
+吸	suck/imbibe/inhale/sip	
+陽	sunshine/yang principle/positive/male/heaven/daytime	
+御	honorable/manipulate/govern	
+歯	tooth/cog	
+忘	forget	
+雪	snow	
+吹	blow/breathe/puff/emit/smoke	
+娘	daughter/girl	
+誤	mistake/err/do wrong/mislead	
+洗	wash/inquire into/probe	
+慣	accustomed/get used to/become experienced	
+礼	salute/bow/ceremony/thanks/remuneration	
+窓	window/pane	
+昔	once upon a time/antiquity/old times	
+貧	poverty/poor	
+怒	angry/be offended	
+祖	ancestor/pioneer/founder	
+泳	swim	
+杯	counter for cupfuls/wine glass/glass/toast	
+疲	exhausted/tire/weary	
+皆	all/everything	
+鳴	chirp/cry/bark/sound/ring/echo/honk	
+腹	abdomen/belly/stomach	
+煙	smoke	
+眠	sleep/die/sleepy	
+怖	dreadful/be frightened/fearful	
+耳	ear	
+頂	place on the head/receive/top of head/top/summit/peak	
+箱	box/chest/case/bin/railway car	
+晩	nightfall/night	
+寒	cold	
+髪	hair of the head	
+忙	busy/occupied/restless	
+才	genius/years old/cubic shaku	
+靴	shoes	
+恥	shame/dishonor	
+偶	accidentally/even number/couple/man & wife/same kind	
+偉	admirable/greatness/remarkable/conceited/famous/excellent	
+猫	cat	
+幾	how many/how much/how far/how long	

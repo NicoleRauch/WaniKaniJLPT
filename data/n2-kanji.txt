@@ -1,0 +1,367 @@
+党	party/faction/clique	
+協	co-/cooperation	
+総	general/whole/all/full/total	
+区	ward/district	
+領	jurisdiction/dominion/territory/fief/reign	
+県	prefecture	
+設	establishment/provision/prepare	
+改	reformation/change/modify/mend/renew/examine/inspect/search	
+府	borough/urban prefecture/govt office/representative body/storehouse	
+査	investigate	
+委	committee/entrust to/leave to/devote/discard	
+軍	army/force/troops/war/battle	
+団	group/association	
+各	each/every/either	
+島	island	
+革	leather/become serious/skin/hide/pelt	
+村	town/village	
+勢	forces/energy/military strength	
+減	dwindle/decrease/reduce/decline/curtail/get hungry	
+再	again/twice/second time	
+税	tax/duty	
+営	occupation/camp/perform/build/conduct (business)	
+比	compare/race/ratio/Philipines	
+防	ward off/defend/protect/resist	
+補	supplement/supply/make good/offset/compensate/assistant/learner	
+境	boundary/border/region	
+導	guidance/leading/conduct/usher	
+副	vice-/duplicate/copy	
+算	calculate/divining/number/abacus/probability	
+輸	transport/send/be inferior	
+述	mention/state/speak/relate	
+線	line/track	
+農	agriculture/farmers	
+州	state/province	
+武	warrior/military/chivalry/arms	
+象	elephant/pattern after/imitate/image/shape/sign (of the times)	
+域	range/region/limits/stage/level	
+額	forehead/tablet/plaque/framed picture/sum/amount/volume	
+欧	Europe	
+担	shouldering/carry/raise/bear	
+準	semi-/correspond to/proportionate to/conform/imitate	
+賞	prize/reward/praise	
+辺	environs/boundary/border/vicinity	
+造	create/make/structure/physique	
+被	incur/cover/veil/brood over/shelter/wear/put on/be exposed (film)/receiving	
+技	skill/art/craft/ability/feat/performance/vocation/arts	
+低	lower/short/humble	
+復	restore/return to/revert/resume	
+移	shift/move/change/drift/catch (cold/ fire)/pass into	
+個	individual/counter for articles and military units	
+門	gates	
+課	chapter/lesson/section/department/division/counter for chapters (of a book)	
+脳	brain/memory	
+極	poles/settlement/conclusion/end/highest rank/electric poles/very/extremely/most/highly/10**48	
+含	include/bear in mind/understand/cherish	
+蔵	storehouse/hide/own/have/possess	
+量	quantity/measure/weight/amount/consider/estimate/surmise	
+型	mould/type/model	
+況	condition/situation	
+針	needle/pin/staple/stinger	
+専	specialty/exclusive/mainly/solely	
+谷	valley	
+史	history/chronicle	
+階	storey/stair/counter for storeys of a building	
+管	pipe/tube/wind instrument/drunken talk	
+兵	soldier/private/troops/army/warfare/strategy/tactics	
+接	touch/contact/adjoin/piece together	
+細	dainty/get thin/taper/slender/narrow	
+効	merit/efficacy/efficiency/benefit	
+丸	round/full/month/perfection/-ship/pills/make round/roll up/curl up/seduce/explain away	
+湾	gulf/bay/inlet	
+録	record	
+省	focus/government ministry/conserve	
+旧	old times/old things/old friend/former/ex-	
+橋	bridge	
+岸	beach	
+周	circumference/circuit/lap	
+材	lumber/log/timber/wood/talent	
+戸	door	
+央	center/middle	
+券	ticket	
+編	compilation/knit/plait/braid/twist/editing/completed poem/part of a book	
+捜	search/look for/locate	
+竹	bamboo	
+超	transcend/super-/ultra-	
+並	row/and/besides/as well as/line up/rank with/rival/equal	
+療	heal/cure	
+採	pick/take/fetch/take up	
+森	forest/woods	
+競	emulate/compete with/bid/sell at auction/bout/contest/race	
+介	jammed in/shellfish/mediate/concern oneself with	
+根	root/radical/head (pimple)	
+販	marketing/sell/trade	
+歴	curriculum/continuation/passage of time	
+将	leader/commander/general/admiral/or/and again/soon/from now on/just about	
+幅	hanging scroll/width	
+般	carrier/carry/all	
+貿	trade/exchange	
+講	lecture/club/association	
+林	grove/forest	
+装	attire/dress/pretend/disguise/profess	
+諸	various/many/several/together	
+劇	drama/play	
+河	river	
+航	navigate/sail/cruise/fly	
+鉄	iron	
+児	newborn babe/child/young of animals	
+禁	prohibition/ban/forbid	
+印	stamp/seal/mark/imprint/symbol/emblem/trademark/evidence/souvenir/India	
+逆	inverted/reverse/opposite/wicked	
+換	interchange/period/charge/change?	
+久	long time/old story	
+短	short/brevity/fault/defect/weak point	
+油	oil/fat	
+暴	outburst/rave/fret/force/violence/cruelty/outrage	
+輪	wheel/ring/circle/link/loop/counter for wheels and flowers	
+占	fortune-telling/divining/forecasting/occupy/hold/have/get/take	
+植	plant	
+清	pure/purify/cleanse/exorcise/Manchu dynasty	
+倍	double/twice/times/fold	
+均	level/average	
+億	hundred million/10**8	
+圧	pressure/push/overwhelm/oppress/dominate	
+芸	technique/art/craft/performance/acting/trick/stunt	
+署	signature/govt office/police station	
+伸	expand/stretch/extend/lengthen/increase	
+停	halt/stopping	
+爆	bomb/burst open/pop/split	
+陸	land/six	
+玉	jewel/ball	
+波	waves/billows/Poland	
+帯	sash/belt/obi/zone/region	
+延	prolong/stretching	
+羽	feathers/counter for birds/ rabbits	
+固	harden/set/clot/curdle	
+則	rule/follow/based on/model after	
+乱	riot/war/disorder/disturb	
+普	universal/wide(ly)/generally/Prussia	
+測	fathom/plan/scheme/measure	
+豊	bountiful/excellent/rich	
+厚	thick/heavy/rich/kind/cordial/brazen/shameless	
+齢	age	
+囲	surround/besiege/store/paling/enclosure/encircle/preserve/keep	
+卒	graduate/soldier/private/die	
+略	abbreviation/omission/outline/shorten/capture/plunder	
+承	acquiesce/hear/listen to/be informed/receive	
+順	obey/order/turn/right/docility/occasion	
+岩	boulder/rock/cliff	
+練	practice/gloss/train/drill/polish/refine	
+軽	lightly/trifling/unimportant	
+了	complete/finish	
+庁	government office	
+城	castle	
+患	afflicted/disease/suffer from/be ill	
+層	stratum/social class/layer/story/floor	
+版	printing block/printing plate/edition/impression/label	
+令	orders/ancient laws/command/decree	
+角	angle/corner/square/horn/antlers	
+絡	entwine/coil around/get caught in	
+損	damage/loss/disadvantage/hurt/injure	
+募	recruit/campaign/gather (contributions)/enlist/grow violent	
+裏	back/amidst/in/reverse/inside/palm/sole/rear/lining/wrong side	
+仏	Buddha/the dead/France	
+績	exploits/unreeling cocoons	
+築	fabricate/build/construct	
+貨	freight/goods/property	
+混	mix/blend/confuse	
+昇	rise up	
+池	pond/cistern/pool/reservoir	
+血	blood	
+温	warm	
+季	seasons	
+星	star/spot/dot/mark	
+永	eternity/long/lengthy	
+著	renowned/publish/write/remarkable/phenomenal/put on/don/wear/arrival/finish (race)/counter for suit	
+誌	document/records	
+庫	warehouse/storehouse	
+刊	publish/carve/engrave	
+像	statue/picture/image/figure/portrait	
+香	incense/smell/perfume	
+坂	slope/incline/hill	
+底	bottom/sole/depth/bottom price/base/kind/sort	
+布	linen/cloth	
+寺	Buddhist temple	
+宇	eaves/roof/house/heaven	
+巨	gigantic/big/large/great	
+震	quake/shake/tremble/quiver/shiver	
+希	hope/beg/request/pray/beseech/Greece/dilute (acid)/rare/few/phenomenal	
+触	contact/touch/feel/hit/proclaim/announce/conflict	
+依	reliant/depend on/consequently/therefore/due to	
+籍	enroll/domiciliary register/membership	
+汚	dirty/pollute/disgrace/rape/defile	
+枚	sheet of.../counter for flat thin objects or sheets	
+複	duplicate/double/compound/multiple	
+郵	mail/stagecoach stop	
+仲	go-between/relationship	
+栄	flourish/prosperity/honor/glory/splendor	
+札	tag/paper money/counter for bonds/placard/bid	
+板	plank/board/plate/stage	
+骨	skeleton/bone/remains/frame	
+傾	lean/incline/tilt/trend/wane/sink/ruin/bias	
+届	deliver/reach/arrive/report/notify/forward	
+巻	scroll/volume/book/part/roll up/wind up/tie/coil/counter for texts (or book scrolls)	
+燃	burn/blaze/glow	
+跡	tracks/mark/print/impression	
+包	wrap/pack up/cover/conceal	
+駐	stop-over/reside in/resident	
+弱	weak/frail	
+紹	introduce/inherit/help	
+雇	employ/hire	
+替	exchange/spare/substitute/per-	
+預	deposit/custody/leave with/entrust to	
+焼	bake/burning	
+簡	simplicity/brevity	
+章	badge/chapter/composition/poem/design	
+臓	entrails/viscera/bowels	
+律	rhythm/law/regulation/gauge/control	
+贈	presents/send/give to/award to/confer on/presenting something	
+照	illuminate/shine/compare/bashful	
+薄	dilute/thin/weak (tea)	
+群	flock/group/crowd/herd/swarm/cluster	
+秒	second (1/60 minute)	
+奥	heart/interior	
+詰	packed/close/pressed/reprove/rebuke/blame	
+双	pair/set/comparison/counter for pairs	
+刺	thorn/pierce/stab/prick/sting/calling card	
+純	genuine/purity/innocence/net (profit)	
+翌	the following/next	
+快	cheerful/pleasant/agreeable/comfortable	
+片	one-sided/leaf/sheet	
+敬	awe/respect/honor/revere	
+悩	trouble/worry/in pain/distress/illness	
+泉	spring/fountain	
+皮	pelt/skin/hide/leather	
+漁	fishing/fishery	
+荒	laid waste/rough/rude/wild	
+貯	savings/store/lay in/keep/wear mustache	
+硬	stiff/hard	
+埋	bury/be filled up/embedded	
+柱	pillar/post/cylinder/support	
+祭	ritual/offer prayers/celebrate/deify/enshrine/worship	
+袋	sack/bag/pouch	
+筆	writing brush/writing/painting brush/handwriting	
+訓	instruction/Japanese character reading/explanation/read	
+浴	bathe/be favored with/bask in	
+童	juvenile/child	
+宝	treasure/wealth/valuables	
+封	seal/closing	
+胸	bosom/breast/chest/heart/feelings	
+砂	sand	
+塩	salt	
+賢	intelligent/wise/wisdom/cleverness	
+腕	arm/ability/talent	
+兆	portent/10**12/trillion/sign/omen/symptoms	
+床	bed/floor/padding/tatami	
+毛	fur/hair/feather/down	
+緑	green	
+尊	revered/valuable/precious/noble/exalted	
+祝	celebrate/congratulate	
+柔	tender/weakness/gentleness/softness	
+殿	Mr./hall/mansion/palace/temple/lord	
+濃	concentrated/thick/dark/undiluted	
+液	fluid/liquid/juice/sap/secretion	
+衣	garment/clothes/dressing	
+肩	shoulder	
+零	zero/spill/overflow/nothing/cipher	
+幼	infancy/childhood	
+荷	baggage/shoulder-pole load/bear (a burden)/shoulder (a gun)/load/cargo/freight	
+泊	overnight/put up at/ride at anchor/3-day stay	
+黄	yellow	
+甘	sweet/coax/pamper/be content/sugary	
+臣	retainer/subject	
+浅	shallow/superficial/frivolous/wretched/shameful	
+掃	sweep/brush	
+雲	cloud	
+掘	dig/delve/excavate	
+捨	discard/throw away/abandon/resign/reject/sacrifice	
+軟	soft	
+沈	sink/be submerged/subside/be depressed/aloes	
+凍	frozen/congeal/refrigerate	
+乳	milk/breasts	
+恋	romance/in love/yearn for/miss/darling	
+紅	crimson/deep red	
+郊	outskirts/suburbs/rural area	
+腰	loins/hips/waist/low wainscoting	
+炭	charcoal/coal	
+踊	jump/dance/leap/skip	
+冊	tome/counter for books/volume	
+勇	courage/cheer up/be in high spirits/bravery/heroism	
+械	contraption/fetter/machine/instrument	
+菜	vegetable/side dish/greens	
+珍	rare/curious/strange	
+卵	egg/ovum/spawn/roe	
+湖	lake	
+喫	consume/eat/drink/smoke/receive (a blow)	
+干	dry/parch	
+虫	insect/bug/temper	
+刷	printing/print	
+湯	hot water/bath/hot spring	
+溶	melt/dissolve/thaw	
+鉱	mineral/ore	
+涙	tears/sympathy	
+匹	equal/head/counter for small animals/roll of cloth	
+孫	grandchild/descendants	
+鋭	pointed/sharpness/edge/weapon/sharp/violent	
+枝	bough/branch/twig/limb	
+塗	paint/plaster/daub/smear/coating	
+軒	flats/counter for houses/eaves	
+毒	poison/virus/venom/germ/harm/injury/spite	
+叫	shout/exclaim/yell	
+拝	worship/adore/pray to	
+氷	icicle/ice/hail/freeze/congeal	
+乾	drought/dry/dessicate/drink up/heaven/emperor	
+棒	rod/stick/cane/pole/club/line	
+祈	pray/wish	
+拾	pick up/gather/find/go on foot/ten	
+粉	flour/powder/dust	
+糸	thread	
+綿	cotton	
+汗	sweat/perspire	
+銅	copper	
+湿	damp/wet/moist	
+瓶	flower pot/bottle/vial/jar/jug/vat/urn	
+咲	blossom/bloom	
+召	seduce/call/send for/wear/put on/ride in/buy/eat/drink/catch (cold)	
+缶	tin can/container	
+隻	vessels/counter for ships/fish/birds/arrows/one of a pair	
+脂	fat/grease/tallow/lard/rosin/gum/tar	
+蒸	steam/heat/sultry/foment/get musty	
+肌	texture/skin/body/grain	
+耕	till/plow/cultivate	
+鈍	dull/slow/foolish/blunt	
+泥	mud/mire/adhere to/be attached to	
+隅	corner/nook	
+灯	lamp/a light/light/counter for lights	
+辛	spicy/bitter/hot/acrid	
+磨	grind/polish/scour/improve/brush (teeth)	
+麦	barley/wheat	
+姓	surname	
+筒	cylinder/pipe/tube/gun barrel/sleeve	
+鼻	nose/snout	
+粒	grains/drop/counter for tiny particles	
+詞	part of speech/words/poetry	
+胃	stomach/paunch/crop/craw	
+畳	tatami mat/counter for tatami mats/fold/shut up/do away with	
+膚	skin/body/grain/texture/disposition	
+机	desk/table	
+濯	laundry/wash/pour on/rinse	
+塔	pagoda/tower/steeple	
+灰	ashes/puckery juice/cremate	
+沸	seethe/boil/ferment/uproar/breed	
+菓	candy/cakes/fruit	
+帽	cap/headgear	
+枯	wither/die/dry up/be seasoned	
+涼	refreshing/nice and cool	
+舟	boat/ship	
+貝	shellfish	
+符	token/sign/mark/tally/charm	
+憎	hate/detest	
+皿	dish/a helping/plate	
+肯	agreement/consent/comply with	
+燥	parch/dry up	
+畜	livestock/domestic fowl and animals	
+挟	pinch/between	
+曇	cloudy weather/cloud up	
+滴	drip/drop	
+伺	pay respects/visit/ask/inquire/question/implore	
